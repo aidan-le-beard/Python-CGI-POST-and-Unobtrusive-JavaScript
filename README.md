@@ -4,11 +4,11 @@
 
 ## You do NOT have permission to use this code for any commercial purposes without speaking to me to work out a deal.
 
-A small HTML website with a form and a button that POSTs information from the form's fields to the server using a Python CGI Script, with the information being retrieved from fields using JavaScript. The Python file saves the input information in to a .txt file and displays it in the HTML.
+A small HTML website with a form and a button that POSTs information from the form's fields to the server using a Python CGI Script, with the information being retrieved from fields using JavaScript. The Python file saves the input information into a .txt file and displays it in the HTML.
 
 ### To execute on Windows:
 
-Run the website on a server such as Apache, placing the Assignment_5.py file in to the cgi-bin folder.
+Run the website on a server such as Apache, placing the Assignment_5.py file into the cgi-bin folder.
 
 ### Sample Output:
 
