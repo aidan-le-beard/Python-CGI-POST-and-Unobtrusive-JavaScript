@@ -1,4 +1,4 @@
-#! C:\Users\aidan\anaconda3\python.exe
+#! C:\Users\XXX\XXX\python.exe
 # MUST INCLUDE PATH TO PYTHON EXECUTABLE TO EXECUTE PYTHON SCRIPT
 # MUST BE AT VERY TOP!!
 
